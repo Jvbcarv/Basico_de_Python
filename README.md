@@ -19,3 +19,7 @@ Exercício 4: Calcular a média de um aluno que cursou a disciplina de Programa�
 - Se a média estiver entre 4.1 e 6.0, o aluno pegou exame
 - Se a média for maior do que 6.0, o aluno está aprovado
 - Se o aluno pegou exame, deve ser lida a nota do exame. Se a nota do exame for maior do que 6.0, está aprovado, senão; está reprovado
+
+Exercício 5: Ler 5 notas e informar a média
+
+Exercício 6: Imprimir a tabuada do número 3 (3 x 1 = 1 - 3 x 10 = 30)
