@@ -62,7 +62,7 @@ while numero < 6:
   numero += 1
 print(soma)
 
-#while com imput
+#while com input
 numero = 12
 while numero < 1 or numero > 10:
   numero = int(input('Digite um número de 1 a 10: '))
