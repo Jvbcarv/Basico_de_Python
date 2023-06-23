@@ -23,3 +23,7 @@ Exercício 4: Calcular a média de um aluno que cursou a disciplina de Programa�
 Exercício 5: Ler 5 notas e informar a média
 
 Exercício 6: Imprimir a tabuada do número 3 (3 x 1 = 1 - 3 x 10 = 30)
+
+
+
+Exercício 6: Imprimir a tabuada do número 3 (3 x 1 = 1 - 3 x 10 = 30)
